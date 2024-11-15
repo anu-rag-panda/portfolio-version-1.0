@@ -30,7 +30,7 @@ Tap to see the [Live Site](https://anuragpanda-10.vercel.app)
 ### TEch Stack
 1. **Frontend** : HTML5, CSS3
 2. **Styling** : CSS
-3. **Form and Submission** : EmailJS 
+3. **Form and Submission** : Web3forms
 4. **Responsive Design** : CSS Grid and Flexbox
 5. **Version Control** : Git and GitHub
 6. **Deployment** : Vercel
