@@ -17,7 +17,7 @@ Welcome to my portfolio website repository! This project showcases my personal p
 
 This portfolio website is designed to showcase my work, highlight my skills, and provide an easy way for visitors to get in touch with me. It features sections for my projects, experience, skills, and links to my social profiles, as well as a contact form.
 
-Tap to see the [Live Site](https://anuragpanda-10.vercel.app)
+Tap to see the [Live Site](https://anuragpanda-portfolio.netlify.app/)
 
 ### Features
 1. **HOME** - Introduction and welcome message.
